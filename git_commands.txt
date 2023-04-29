@@ -39,3 +39,7 @@ Yoksa lokalimdeki eski main ile yeni branch'i birleştirmiş olurum.
 
 git merge dev1
 main'deyiz ve dev1 ile birleştirmesini söyledik.
+
+git push 
+Bu komutla artık branch dev1 ve main birleştirildi. main'de artık branch gibi güncel hale geldi.
+
