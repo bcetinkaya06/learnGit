@@ -46,3 +46,9 @@ Bu komutla artık branch dev1 ve main birleştirildi. main'de artık branch gibi
 -------------------------------------------
 --Bu kısma kadar olan yerin test denemesi--
 -------------------------------------------
+
+
+git push --set-upstream origin dev1
+-------------------------------------------
+-- dev1 --> main pull request denemesi   --
+-------------------------------------------
