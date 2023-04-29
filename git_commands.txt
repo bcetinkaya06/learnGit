@@ -15,3 +15,10 @@ git push
 
 git pull
 Klasör başka kişiler tarafından güncellendiyse GIT'ten lokale alınır.
+
+Branch, aynı anda birden fazla kişinin aynı dosya üzerinde pull ve push yapabilmesini sağlar.
+Ana dosyaya paralel olarak gider fakat değişiklikleri branchde oluşturur.
+
+git checkout -b dev1
+Commit ettikten sonra dev1 adında bir branch oluşturur. (-b komutu)
+Bu kısımda yaptığımız değişiklik branch'te görünür, ana dosya etkilenmez.
