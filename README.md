@@ -1,1 +1,3 @@
 # learnGit
+
+deneme1
