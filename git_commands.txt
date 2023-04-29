@@ -27,3 +27,15 @@ git checkout dev1
 dev1 branch'ine switch eder. 
 git checkout main
 main branch'ine switch eder.
+
+Peki branch'teki dev1 kısmıyla main'i nasıl merge ederiz?
+
+git checkout main 
+Artık branch'imi main olarak değiştirdim.
+
+git pull
+Önce bir pull edeyimki, herhangi bir değişiklik var mı yok mu bilelim, her zaman en güncel halini kullanalım.
+Yoksa lokalimdeki eski main ile yeni branch'i birleştirmiş olurum. 
+
+git merge dev1
+main'deyiz ve dev1 ile birleştirmesini söyledik.
