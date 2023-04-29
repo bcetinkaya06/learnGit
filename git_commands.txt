@@ -11,5 +11,7 @@ git commit -m "YORUMUNUZ"
 İlgili dosyalar commitlenip yorum yapılır.
 
 git push 
-İlgili dosyalar klasör dizininden GIT'e aktarılır.
+İlgili dosyalar lokalden GIT'e aktarılır.
 
+git pull
+Klasör başka kişiler tarafından güncellendiyse GIT'ten lokale alınır.
