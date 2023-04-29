@@ -1,0 +1,15 @@
+Sıralama takip edilmeli.
+
+git init 
+Bu komut klasör ile git arasındaki bağlantıyı oluşturur.
+Gizli klasörleri göster dediğinizde ilgili dizinde bir tane .git klasörü oluştuğunu görebilirsiniz.
+
+git add . 
+Bu komut klasör içerisindeki herşeyi git stage bölgesine aktarır.
+
+git commit -m "YORUMUNUZ"
+İlgili dosyalar commitlenip yorum yapılır.
+
+git push 
+İlgili dosyalar klasör dizininden GIT'e aktarılır.
+
