@@ -43,3 +43,6 @@ main'deyiz ve dev1 ile birleştirmesini söyledik.
 git push 
 Bu komutla artık branch dev1 ve main birleştirildi. main'de artık branch gibi güncel hale geldi.
 
+-------------------------------------------
+--Bu kısma kadar olan yerin test denemesi--
+-------------------------------------------
