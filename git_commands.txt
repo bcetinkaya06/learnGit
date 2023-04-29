@@ -22,3 +22,8 @@ Ana dosyaya paralel olarak gider fakat değişiklikleri branchde oluşturur.
 git checkout -b dev1
 Commit ettikten sonra dev1 adında bir branch oluşturur. (-b komutu)
 Bu kısımda yaptığımız değişiklik branch'te görünür, ana dosya etkilenmez.
+
+git checkout dev1 
+dev1 branch'ine switch eder. 
+git checkout main
+main branch'ine switch eder.
